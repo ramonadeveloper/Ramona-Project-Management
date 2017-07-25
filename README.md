@@ -1,4 +1,4 @@
-# Ramona-Project-Management
+# Ramona-Project-Management with Waffle.io
 Playing with Waffle.io and checking out some features.
 Very cool because:  
 - Easy interface
