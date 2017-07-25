@@ -1,2 +1,3 @@
 # Ramona-Project-Management
-Playing with Waffle and checking out some features
+Playing with Waffle.io and checking out some features
+Very cool.
